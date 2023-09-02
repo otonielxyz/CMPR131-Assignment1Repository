@@ -1,0 +1,4 @@
+Minimum Value: 1
+Maximum Value: 100
+Range: 99
+Size: 200
