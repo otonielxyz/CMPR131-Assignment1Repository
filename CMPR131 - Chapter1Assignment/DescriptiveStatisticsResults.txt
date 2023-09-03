@@ -1,0 +1,20 @@
+Minimum Value: 1
+Maximum Value: 100
+Range: 99
+Size: 200
+Sum: 9127
+Mean: 45.635
+Median: 43
+Standard Deviation: 28.9285
+Variance: 836.856
+Midrange: 50.5
+Interquartile Range (IQR): 50
+Sum of Squares: 166534
+Mean Absolute Deviation (MAD): 24.7931
+Root Mean Square (RMS): 53.9928
+Standard Error of the Mean: 2.04555
+Coefficient of Variation: 63.391
+Relative Standard Deviation: 63.391%
+Skewness: 0.210808
+Kurtosis: 1.87523
+Kurtosis Excess: -1.12477
